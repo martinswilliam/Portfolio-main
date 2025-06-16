@@ -27,7 +27,7 @@ const certificates = [
   {
     id: 6,
     name: 'JavaScript-Developer',
-    image:'/education/certificate/javaScript-developer.jpg',
+    image:'/education/certificate/javascript-developer.jpg',
   },
 ]
 
