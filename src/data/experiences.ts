@@ -1,7 +1,7 @@
 const works = [
   {
     id: 1,
-    img: '/experience/Freelancer2.png',
+    img: '/experience/freelancer.png',
     title: 'Freelancer',
     subTitle: 'Desenvolvedor Full-Stack',
     office: 'Freelancer',

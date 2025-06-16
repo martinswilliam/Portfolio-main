@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     url: 'controle-estoque',
     banner: '/projects/controle-estoque/dashboard.png',
-    img: '/projects/controle-estoque/controle-estoque-home.png',
+    img: '/projects/controle-estoque/estoque-home.png',
     title: 'Controle de estoque',
     type: 'Website',
     icon: '/projects/controle-estoque/estoque-pronto.png',
@@ -26,32 +26,32 @@ const projects = [
       },
       {
         name: 'PostgreSQL',
-        icon: '/skills/PostgreSQL.svg',
+        icon: '/skills/postgresql.svg',
         color: '#C476AE',
         rgb: '196, 118, 174'
       },
       {
         name: 'Supabase',
-        icon: '/skills/Supabase.svg',
+        icon: '/skills/supabase.svg',
         color: '#C476AE',
         rgb: '196, 118, 174'
       },
       {
         name: 'React',
-        icon: '/skills/React.svg',
+        icon: '/skills/react.svg',
         color: '#C476AE',
         rgb: '196, 118, 174'
       },
       
       {
         name: 'JavaScript',
-        icon: '/skills/JavaScript.svg',
+        icon: '/skills/javascript.svg',
         color: '#C476AE',
         rgb: '196, 118, 174'
       },
       {
         name: 'Tailwindcss',
-        icon: '/skills/Tailwindcss.svg',
+        icon: '/skills/tailwindcss.svg',
         color: '#C476AE',
         rgb: '196, 118, 174'
       }

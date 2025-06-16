@@ -2,7 +2,7 @@ const certificates = [
   {
     id: 1,
     name: 'GESTÃO E QUALIDADE DE SOFTWARE',
-    image:'/education/certificate/GESTÃO-E-QUALIDADE-DE-SOFTWARE.JPG',
+    image:'/education/certificate/GESTAO-E-QUALIDADE-DE-SOFTWARE.jpg',
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const certificates = [
   {
     id: 6,
     name: 'JavaScript-Developer',
-    image:'/education/certificate/JavaScript-Developer.jpg',
+    image:'/education/certificate/javaScript-developer.jpg',
   },
 ]
 
