@@ -88,7 +88,7 @@ const cardSkills = [
   {
     id: 15,
     title: 'SupaBase',
-    img: '/skills/SupaBase.svg',
+    img: '/skills/supabase.svg',
     color: '#67e1af'
   },
 
@@ -107,13 +107,13 @@ const cardSkills = [
   {
     id: 17,
     title: 'MySQL',
-    img: '/skills/MySql.svg',
+    img: '/skills/mysql.svg',
     color: '#02728f'
   },
   {
     id: 18,
     title: 'GitHub',
-    img: '/skills/GitHub.svg',
+    img: '/skills/github.svg',
     color: '#ffffff'
   },
 
